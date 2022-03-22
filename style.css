@@ -6,6 +6,9 @@
   box-sizing: border-box;
   font-family: 'Neucha', cursive;
 }
+body{
+  background-color: #ffffff;
+}
 .main{
   width: 100%;
   height: 100vh;
